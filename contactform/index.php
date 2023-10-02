@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>お問い合わせフォームを作る</title>
+    <title>お問い合わせフォームをつくってみた</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
     
